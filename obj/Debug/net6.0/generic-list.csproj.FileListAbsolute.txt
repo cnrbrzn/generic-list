@@ -1,0 +1,15 @@
+C:\Users\cborazan\source\repos\Pratikler\generic-list\bin\Debug\net6.0\generic-list.exe
+C:\Users\cborazan\source\repos\Pratikler\generic-list\bin\Debug\net6.0\generic-list.deps.json
+C:\Users\cborazan\source\repos\Pratikler\generic-list\bin\Debug\net6.0\generic-list.runtimeconfig.json
+C:\Users\cborazan\source\repos\Pratikler\generic-list\bin\Debug\net6.0\generic-list.dll
+C:\Users\cborazan\source\repos\Pratikler\generic-list\bin\Debug\net6.0\generic-list.pdb
+C:\Users\cborazan\source\repos\Pratikler\generic-list\obj\Debug\net6.0\generic-list.csproj.AssemblyReference.cache
+C:\Users\cborazan\source\repos\Pratikler\generic-list\obj\Debug\net6.0\generic-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cborazan\source\repos\Pratikler\generic-list\obj\Debug\net6.0\generic-list.AssemblyInfoInputs.cache
+C:\Users\cborazan\source\repos\Pratikler\generic-list\obj\Debug\net6.0\generic-list.AssemblyInfo.cs
+C:\Users\cborazan\source\repos\Pratikler\generic-list\obj\Debug\net6.0\generic-list.csproj.CoreCompileInputs.cache
+C:\Users\cborazan\source\repos\Pratikler\generic-list\obj\Debug\net6.0\generic-list.dll
+C:\Users\cborazan\source\repos\Pratikler\generic-list\obj\Debug\net6.0\refint\generic-list.dll
+C:\Users\cborazan\source\repos\Pratikler\generic-list\obj\Debug\net6.0\generic-list.pdb
+C:\Users\cborazan\source\repos\Pratikler\generic-list\obj\Debug\net6.0\generic-list.genruntimeconfig.cache
+C:\Users\cborazan\source\repos\Pratikler\generic-list\obj\Debug\net6.0\ref\generic-list.dll
